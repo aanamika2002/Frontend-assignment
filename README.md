@@ -1,8 +1,3 @@
-Got it 👍
-Here’s a **more personal, first-person README** that sounds like *you* actually designed, coded, tested, and deployed the project — not a generic template.
-You can copy-paste this directly and just update links/email if needed.
-
----
 
 # 💍 Jewelry Store Website
 
@@ -152,10 +147,3 @@ This project meets all the assignment requirements:
 * ✅ Clean and well-structured code
 * ✅ Thoughtful UI interactions
 * ✅ Deployed live for easy review
-
----
-
-**Built with attention to detail and care for UI/UX — 2024** 💎
-
-Good luck with the review! 🚀
-If you want, I can also **tone this slightly more junior or slightly more senior** depending on the role you’re applying for.
